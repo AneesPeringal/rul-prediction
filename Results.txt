@@ -1,0 +1,16 @@
+alpha = 0
+Test MSE:795.81, L1:21.18, ASUE:2.6MSE of overesitmated: 740.26Overestimation rate: 0.75
+alpha = 0.2
+Test MSE:1092.55, L1:23.24, ASUE:4.28MSE of overesitmated: 983.89Overestimation rate: 0.63
+alpha = 0.4
+Test MSE:618.54, L1:18.49, ASUE:3.85MSE of overesitmated: 525.29Overestimation rate: 0.71
+alpha = 23
+Test MSE:474.68, L1:14.72, ASUE:5.51MSE of overesitmated: 356.53Overestimation rate: 0.55
+alpha = 131
+Test MSE:429.61, L1:15.01, ASUE:7.47MSE of overesitmated: 245.55Overestimation rate: 0.4
+alpha = 267
+Test MSE:576.15, L1:18.36, ASUE:15.44MSE of overesitmated: 81.15Overestimation rate: 0.18
+alpha = 540
+Test MSE:413.52, L1:15.74, ASUE:10.71MSE of overesitmated: 134.74Overestimation rate: 0.28
+alpha = 814
+Test MSE:491.89, L1:16.8, ASUE:14.57MSE of overesitmated: 46.14Overestimation rate: 0.2
